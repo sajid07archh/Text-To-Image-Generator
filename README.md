@@ -46,9 +46,3 @@ Planned improvements:
 Note
 
 API keys and sensitive credentials are not included in this repository for security reasons. You can use your Token in place of My_HF_Token.
-
----
-
-Author
-
-Developed by Sajid Ali
