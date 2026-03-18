@@ -12,6 +12,7 @@ Currently, the project uses a basic model implementation for generating images. 
 - Can generate multiple images
 - Stable Diffusion and Hugging Face is used for this project
 - Easy to run and modify
+- UI ineterface
 
 
 ## Tech Stack
